@@ -1,4 +1,6 @@
-# Algorithms: Google's Page Rank
+# Algorithms: 
+1) Google's Page Rank
+2) Klienberg's HITS Algorithm
 
 The input for this problem is a graph represented through an adjacency list representation.
 The command-line interface that is used is as follows. 
@@ -21,3 +23,4 @@ where first two numbers shows number of vertices and number of edges respectivel
 ex. 
 java hits4006 15 -1 samplegraph.txt
 java pgrk4006 15 -1 samplegraph.txt
+=========================================================
